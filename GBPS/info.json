@@ -1,0 +1,10 @@
+{
+  "name": "GBPS 1.16.3",
+  "description": "Оригинал - Параллелипипед, форк - Пробел. Тут GBPS 1.16.3",
+  "mainScript": "main.lua",
+  "version": "1.0",
+  "active": true,
+  "unloadOnError": false,
+  "safeMode": false,
+  "isPlugin": false
+}
